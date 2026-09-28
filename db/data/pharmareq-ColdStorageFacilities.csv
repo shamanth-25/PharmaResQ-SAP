@@ -1,0 +1,8 @@
+ID,name,location,capacity,availableSpace,temperatureRange,status
+CS01,Hyderabad Pharma Cold Hub,Hyderabad,5000,1800,2-8C,OPERATIONAL
+CS02,Vijayawada Medical Cold Store,Vijayawada,3000,950,2-8C,OPERATIONAL
+CS03,Chennai Life Sciences Cold Hub,Chennai,4500,2100,2-8C,OPERATIONAL
+CS04,Bengaluru Pharma Cold Facility,Bengaluru,4000,1400,2-8C,OPERATIONAL
+CS05,Mumbai Biologics Cold Hub,Mumbai,6000,2700,2-8C,OPERATIONAL
+CS06,Pune Vaccine Storage Centre,Pune,3500,900,2-8C,OPERATIONAL
+CS07,Nagpur Regional Cold Store,Nagpur,2500,1200,2-8C,OPERATIONAL

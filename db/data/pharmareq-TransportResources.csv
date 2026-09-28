@@ -1,0 +1,7 @@
+ID,provider,vehicleNumber,vehicleType,temperatureRange,capacity,currentLocation,status
+TR01,BlueDart Pharma Logistics,TS09AB4521,Refrigerated Truck,2-8C,1200,Hyderabad,AVAILABLE
+TR02,TCI Cold Chain,TS10CD7834,Refrigerated Truck,2-8C,1800,Vijayawada,AVAILABLE
+TR03,Safexpress Life Sciences,MH12EF9821,Refrigerated Truck,2-8C,1500,Mumbai,AVAILABLE
+TR04,ColdEx Logistics,KA01GH6723,Refrigerated Truck,2-8C,1000,Bengaluru,AVAILABLE
+TR05,MedTrans India,AP39JK4312,Refrigerated Van,2-8C,600,Tirupati,AVAILABLE
+TR06,BlueDart Pharma Logistics,TS09LM9182,Refrigerated Truck,2-8C,1500,Hyderabad,MAINTENANCE

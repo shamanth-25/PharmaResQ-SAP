@@ -1,0 +1,6 @@
+ID,name,category,requiredTemperature,description
+PR01,Human Insulin,Insulin,2-8C,Temperature-sensitive insulin requiring refrigerated transportation
+PR02,COVID-19 Vaccine,Vaccine,2-8C,Refrigerated vaccine requiring continuous cold-chain monitoring
+PR03,Monoclonal Antibody,Biologic,2-8C,Biologic medicine requiring validated refrigerated storage
+PR04,Antibiotic Injection,Injectable,2-8C,Temperature-sensitive injectable pharmaceutical
+PR05,Specialty Vaccine,Vaccine,2-8C,High-value vaccine requiring controlled temperature

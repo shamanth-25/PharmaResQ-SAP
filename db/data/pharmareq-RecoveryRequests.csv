@@ -1,0 +1,4 @@
+ID,shipment_ID,product_ID,source,destination,requestedQty,riskLevel,recommendedAction,alternativeAction,reason,status
+RR01,SH01,PR01,Hyderabad,Vijayawada,800,HIGH,Divert to qualified cold facility,Transfer to backup refrigerated truck,Reefer failure and temperature above 8C detected,OPEN
+RR02,SH02,PR02,Hyderabad,Chennai,1200,LOW,Continue monitored route,Use alternate refrigerated truck,Temperature remains within required range,MONITORED
+RR03,SH03,PR03,Mumbai,Bengaluru,500,MEDIUM,Continue with enhanced monitoring,Divert to qualified cold facility,Traffic delay increasing exposure window,OPEN

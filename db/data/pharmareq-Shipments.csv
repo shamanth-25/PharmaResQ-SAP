@@ -1,0 +1,6 @@
+ID,product_ID,company_ID,batchNumber,source,destination,quantity,vehicle_ID,requiredTemp,currentTemp,etaMinutes,status
+SH01,PR01,PH01,INS-HYD-260901,Hyderabad,Vijayawada,800,TR01,2-8C,5.2,180,IN_TRANSIT
+SH02,PR02,PH04,VAX-HYD-260903,Hyderabad,Chennai,1200,TR02,2-8C,4.8,420,IN_TRANSIT
+SH03,PR03,PH03,MAB-MUM-260905,Mumbai,Bengaluru,500,TR03,2-8C,6.1,360,IN_TRANSIT
+SH04,PR04,PH01,ABX-HYD-260906,Hyderabad,Tirupati,700,TR04,2-8C,5.6,300,IN_TRANSIT
+SH05,PR02,PH05,VAX-PUN-260904,Pune,Mumbai,900,TR05,2-8C,4.5,240,IN_TRANSIT
